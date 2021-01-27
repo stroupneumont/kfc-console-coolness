@@ -1,2 +1,2 @@
 # kfc-console-coolness
-Best console evah!
+Best console ever!
